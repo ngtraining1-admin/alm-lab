@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<SdkMessageProcessingStep Name="Plugins.Warehouse.ValidateWarehouseTransactionPlugin: Create of almlab_warehousetransaction" SdkMessageProcessingStepId="{ff9795b7-c0d5-480b-ab05-ab878dd603b6}" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<SdkMessageProcessingStep Name="Plugins.Warehouse.ValidateWarehouseTransactionPlugin: Create of almlab_warehousetransaction" SdkMessageProcessingStepId="{334086d4-b273-49df-bb59-23255cbee690}" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <SdkMessageId>9ebdbb1b-ea3e-db11-86a7-000a3a5473e8</SdkMessageId>
-  <PluginTypeName>Plugins.Warehouse.ValidateWarehouseTransactionPlugin, PluginsWarehouse, Version=1.0.0.0, Culture=neutral, PublicKeyToken=38c8231c6e4c10ce</PluginTypeName>
+  <PluginTypeName>Plugins.Warehouse.ValidateWarehouseTransactionPlugin, PluginsWarehouse, Version=1.0.0.0, Culture=neutral, PublicKeyToken=768eb79a867224a9</PluginTypeName>
   <PrimaryEntity>almlab_warehousetransaction</PrimaryEntity>
-  <PluginTypeId>6ed64882-f217-4c11-ba52-6211d920ffcb</PluginTypeId>
+  <PluginTypeId>38823580-00a7-411d-aa57-6385e525aed4</PluginTypeId>
   <AsyncAutoDelete>0</AsyncAutoDelete>
   <FilteringAttributes>
   </FilteringAttributes>

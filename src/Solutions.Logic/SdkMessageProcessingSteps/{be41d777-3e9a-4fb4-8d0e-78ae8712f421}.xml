@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<SdkMessageProcessingStep Name="Plugins.Warehouse.SubtractQuantityPlugin: Create of almlab_warehousetransaction" SdkMessageProcessingStepId="{0b83dee6-d3b5-4b1a-aeca-61646773f743}" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<SdkMessageProcessingStep Name="Plugins.Warehouse.SubtractQuantityPlugin: Create of almlab_warehousetransaction" SdkMessageProcessingStepId="{be41d777-3e9a-4fb4-8d0e-78ae8712f421}" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <SdkMessageId>9ebdbb1b-ea3e-db11-86a7-000a3a5473e8</SdkMessageId>
-  <PluginTypeName>Plugins.Warehouse.SubtractQuantityPlugin, PluginsWarehouse, Version=1.0.0.0, Culture=neutral, PublicKeyToken=38c8231c6e4c10ce</PluginTypeName>
+  <PluginTypeName>Plugins.Warehouse.SubtractQuantityPlugin, PluginsWarehouse, Version=1.0.0.0, Culture=neutral, PublicKeyToken=768eb79a867224a9</PluginTypeName>
   <PrimaryEntity>almlab_warehousetransaction</PrimaryEntity>
-  <PluginTypeId>eb0caf47-414b-407c-9dbf-121aba098885</PluginTypeId>
+  <PluginTypeId>68afc4ec-fe16-4036-b900-4a0e3e4a2eeb</PluginTypeId>
   <AsyncAutoDelete>0</AsyncAutoDelete>
   <FilteringAttributes>
   </FilteringAttributes>

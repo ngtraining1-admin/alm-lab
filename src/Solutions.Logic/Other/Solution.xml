@@ -128,10 +128,10 @@
       </Addresses>
     </Publisher>
     <RootComponents>
-      <RootComponent type="91" id="{42ba8cc0-0b45-47ab-8212-abdc67b36a3a}" schemaName="PluginsWarehouse, Version=1.0.0.0, Culture=neutral, PublicKeyToken=38c8231c6e4c10ce" behavior="0" />
-      <RootComponent type="91" id="{9aa59425-b726-4c7b-83db-dd5a5b55f967}" schemaName="PluginsWarehouse, Version=1.0.0.0, Culture=neutral, PublicKeyToken=38c8231c6e4c10ce" behavior="0" />
-      <RootComponent type="92" id="{ff9795b7-c0d5-480b-ab05-ab878dd603b6}" behavior="0" />
-      <RootComponent type="92" id="{0b83dee6-d3b5-4b1a-aeca-61646773f743}" behavior="0" />
+      <RootComponent type="91" id="{f3dd5081-6ff5-49bc-96bc-b1d9756e6bd2}" schemaName="PluginsWarehouse, Version=1.0.0.0, Culture=neutral, PublicKeyToken=768eb79a867224a9" behavior="0" />
+      <RootComponent type="91" id="{3b9985fd-0290-48ae-8117-75699effdadd}" schemaName="PluginsWarehouse, Version=1.0.0.0, Culture=neutral, PublicKeyToken=768eb79a867224a9" behavior="0" />
+      <RootComponent type="92" id="{334086d4-b273-49df-bb59-23255cbee690}" behavior="0" />
+      <RootComponent type="92" id="{be41d777-3e9a-4fb4-8d0e-78ae8712f421}" behavior="0" />
     </RootComponents>
     <MissingDependencies />
   </SolutionManifest>
